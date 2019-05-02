@@ -1,2 +1,2 @@
-# AntiGrainGeometry-v2.4
-just a 1:1 copy of Anti-Grain Geometry v2.4 (the latest version with a permissive license)
+# Purpose
+This repository contains nothing but a 1:1 copy of version 2.4 of the [Anti-Grain Geometry](http://www.antigrain.com/) software. This was the last version with a permissive (BSD 3-clause) license.
